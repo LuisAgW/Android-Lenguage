@@ -1,4 +1,3 @@
 <resources>
-    <string name="app_name">Bienvenido</string>
-    <string name="btn_name">Entrar</string>
+    <string name="app_name">appCourse</string>
 </resources>
